@@ -1,0 +1,100 @@
+deep learning: 591
+plant disease: 503
+CNN: 439
+classification: 379
+machine learning: 300
+identification: 210
+neural network: 145
+transfer learning: 145
+image processing: 144
+agriculture: 130
+plant disease detection: 130
+precision agriculture: 120
+recognition: 117
+segmentation: 115
+computer vision: 109
+feature extraction: 83
+SVM: 80
+artificial intelligence: 73
+leaf: 73
+image classification: 71
+plant: 68
+object detection: 60
+leaf disease: 59
+system: 54
+smart agriculture: 53
+images: 49
+image segmentation: 39
+hyperspectral imaging: 36
+features: 36
+resistance: 36
+remote sensing: 33
+sensors: 33
+uav: 32
+algorithm: 32
+deep: 32
+reflectance: 31
+diagnosis: 30
+data augmentation: 30
+random forest: 30
+crops: 29
+color: 28
+iot: 26
+smart farming: 26
+disease classification: 25
+detection: 23
+internet of things: 23
+yellow rust: 22
+plant pathology: 21
+wheat: 21
+severity: 21
+prediction: 21
+stress: 21
+spectral reflectance: 21
+vegetation indexes: 21
+artificial neural network: 20
+disease identification: 20
+indexes: 20
+accuracy: 19
+machine vision: 19
+semantic segmentation: 19
+models: 19
+networks: 19
+leaf disease detection: 18
+weed detection: 18
+maize: 18
+powdery mildew: 18
+network: 18
+chlorophyll content: 18
+model: 18
+yield: 18
+vision: 18
+plant disease classification: 17
+optimization: 17
+k-means: 17
+plant leaf disease detection: 17
+plant disease identification: 17
+image recognition: 17
+algorithms: 17
+fruit: 17
+feature selection: 16
+tomato: 16
+citrus diseases: 16
+pest detection: 16
+quantification: 16
+hyperspectral: 16
+infection: 16
+vegetation: 16
+artificial neural networks: 15
+alexnet: 15
+plant phenotyping: 15
+spectroscopy: 15
+crop: 15
+image-analysis: 15
+deep neural network: 14
+fusion: 14
+dataset: 14
+mobilenet: 14
+nitrogen: 14
+potato: 14
+image analysis: 14
